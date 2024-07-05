@@ -1,20 +1,27 @@
 export const experiences = [
   {
+    id: 0,
+    title: "Frontend Developer (Internship)",
+    company: "Nabiqasim Pharma",
+    duration: "(Aug 2020 - Nov 2020)"
+  },
+  {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: "Frontend / Mern Stack Developer (Freelance Remote)",
+    company: "Axpert Solutions",
+    duration: "(Jan 2021 - Nov 2023)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: 'Frontend / Mern Stack Developer (1.3 Years)',
+    company: "Evolligence Private Ltd.",
+    duration: "(Dec 2021 - Feb 2023)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
-  }
+    title: "Mern Stack / React Native Developer (1.5 Years)",
+    company: "Megatech Tracker Private Ltd.",
+    duration: "(Mar 2023 - Present)"
+  },
+
 ]

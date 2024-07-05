@@ -1,20 +1,31 @@
 export const educations = [
   {
+    id: 0,
+    title: "Masters Degree",
+    duration: "2023 - Present",
+    institution: "NED University of Engineering and Technology Karachi Pakistan",
+  }, {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2018 - 2021",
+    institution: "BEnazir Shaheen University Karachi Pakistan",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary School (Intermediate-Pre Medical)",
+    duration: "2025 - 2017",
+    institution: "Saudabad Science and Commerce college Malir Karachi Pakistan",
   },
+
   {
+    id: 4,
+    title: "Secondary School (Matriculation)",
+    duration: "2012 - 2015",
+    institution: "Asif Public School Malir Karachi Pakistan",
+  }, {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+    title: "HIFZ-E-HOLY-QURAN",
+    duration: "2011 - 2013",
+    institution: "Madarsa Abu Huraira (Wifaqual madaris Pakistan) karachi pakistan",
+  },
 ]

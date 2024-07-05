@@ -42,7 +42,7 @@ import matlab from '/public/svg/skills/matlab.svg';
 import memsql from '/public/svg/skills/memsql.svg';
 import microsoftoffice from '/public/svg/skills/microsoftoffice.svg';
 import mongoDB from '/public/svg/skills/mongoDB.svg';
-import mysql from '/public/svg/skills/mysql.svg';
+import mysql from '/public/svg/skills/sql-svgrepo-com.svg';
 import nextJS from '/public/svg/skills/nextJS.svg';
 import nginx from '/public/svg/skills/nginx.svg';
 import numpy from '/public/svg/skills/numpy.svg';
@@ -72,6 +72,9 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import nodejs from '/public/svg/skills/nodejs.svg';
+import vercel from '/public/svg/skills/vercel-svgrepo-com.svg';
+import Multer from '/public/svg/skills/file-zipper-svgrepo-com.svg';
 
 
 export const skillsImage = (skill) => {
@@ -225,6 +228,12 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+      case 'nodejs':
+      return nodejs;
+      case 'vercel':
+      return vercel;
+      case 'Multer':
+        return Multer;
     default:
       break;
   }
