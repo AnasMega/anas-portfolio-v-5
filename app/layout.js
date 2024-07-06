@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="fanicon-icon" href="static/favicon.ico"   />
+        <link rel="fanicon-icon" href="/static/favicon.ico"   />
 
       </head>
       <body className={inter.className}>
