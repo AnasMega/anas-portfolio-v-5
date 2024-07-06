@@ -28,7 +28,7 @@ export default async function Home() {
 
   return (
     <>  <Head>
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="/app/favicon.ico" />
 </Head>
       <HeroSection />
       <AboutSection />

@@ -8,8 +8,7 @@ import "./css/card.scss";
 import "./css/globals.scss";
 import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
-import anas from "../app/favicon.ico"
-import Head from "next/head";
+ import Head from "next/head";
 export const metadata = {
   title: "Portfolio of Anas Hussain-Developer",
   description:
@@ -21,7 +20,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
      <Head>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/app/favicon.ico" />
             </Head>
       <body className={inter.className}>
         <ToastContainer />
