@@ -8,7 +8,7 @@ import "./css/card.scss";
 import "./css/globals.scss";
 import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
-
+import anas from "../app/favicon.ico"
 export const metadata = {
   title: "Portfolio of Anas Hussain-Developer",
   description:
@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/static/favicon.ico" style={{ borderRadius: 15 }} />
+        <link rel="fanicon-icon" href="/static/favicon.ico" style={{ borderRadius: 15 }} />
 
       </head>
       <body className={inter.className}>
