@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Anas Hussain-Developer",
   description:
-    "This is the portfolio of Anas Hussain. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Anas Hussain. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges. Anas Hussain Mr Rumi Official youngsfood anas hussain anas hussain malir anas megatech anad mega anas mr rumi anas me rumi official anas hussain me rumi official",
 
 };
 

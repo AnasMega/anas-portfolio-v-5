@@ -7,21 +7,34 @@ export const experiences = [
   },
   {
     id: 1,
-    title: "Frontend / Mern Stack Developer (Freelance Remote)",
+    title: "Full Stack / Mern Developer (Freelance Remote)",
     company: "Axpert Solutions",
     duration: "(Jan 2021 - Nov 2023)"
   },
   {
     id: 2,
-    title: 'Frontend / Mern Stack Developer (1.3 Years)',
+    title: 'Full Stack Principle / Developer (1.3 Years)',
     company: "Evolligence Private Ltd.",
     duration: "(Dec 2021 - Feb 2023)"
   },
   {
     id: 3,
-    title: "Mern Stack / React Native Developer (1.5 Years)",
+    title: "Full Stack Principle Web and Mobile App Developer (1.5 Years)",
     company: "Megatech Tracker Private Ltd.",
-    duration: "(Mar 2023 - Present)"
+    duration: "(Feb 2023 - April 2024)"
   },
+  {
+    id: 4,
+    title: "Full Stack Principle Web and Mobile App Developer",
+    company: "Atria Technologies",
+    duration: "(April 2024 - oct 2024)"
+  },
+  {
+    id: 5,
+    title: "Full Stack Principle Web and Mobile App Developer",
+    company: "Youngsfood pvt ltd",
+    duration: "(oct 2024 - present)"
+  },
+
 
 ]
