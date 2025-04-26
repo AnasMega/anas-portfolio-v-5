@@ -26,10 +26,6 @@ function HeroSection() {
             Hello, <br />
             This is {' '}
             <span className=" text-pink-500">{personalData.name}</span>
-            <span className=" ">{' '}and</span>
-            <span className="  text-yellow-400">{' '}Tahira</span>
-            <span className=" ">{' '}is my</span>
-            <span className="  text-green-600">{' '}Sweet Wife</span>
             {` , I'm a Professional `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
             .
