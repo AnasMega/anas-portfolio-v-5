@@ -2,6 +2,7 @@ import ayla from '/public/image/ayla.jpg';
 import crefin from '/public/image/crefin.jpg';
 import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
+import yb_logo from '/public/image/youngsbazar_logo.gif';
 
 export const projectsData = [
     {
@@ -83,7 +84,32 @@ export const projectsData = [
         demo: '',
         image: ayla,
         role: 'Mern Stack Developer',
-    }
+    },
+     {
+    id: 10,
+    name: 'YoungsBazaar',
+    description:
+      'A large-scale B2B/B2C e-commerce platform consisting of four integrated applications: Distributor Portal, Rider Mobile Application, Admin Portal, and Customer Web Store. The platform integrates with SAP ERP to synchronize live inventory, pricing, and secondary sales data in real time through custom integration services.',
+    tools: [
+      'Next.js',
+      'React.js',
+      'Node.js',
+      'TypeScript',
+      'Medusa.js',
+      'SAP ERP Integration',
+      'REST API',
+      'PostgreSQL',
+      'Redis',
+      'Docker',
+      'Tailwind CSS',
+      'Custom Integration Services',
+      'Git'
+    ],
+    role: 'Senior Software Developer (Full Stack)',
+    code: '',
+    demo: '',
+    image: yb_logo,
+  },
 ];
 
 

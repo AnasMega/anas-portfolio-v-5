@@ -1,12 +1,12 @@
 export const educations = [
   {
     id: 0,
-    title: "Masters Degree",
-    duration: "2023 - Present",
+    title: "Masters Degree (Data Science)",
+    duration: "2023 - 2025",
     institution: "NED University of Engineering and Technology Karachi Pakistan",
   }, {
     id: 1,
-    title: "Bachelor Degree",
+    title: "Bachelor Degree (Information Technology)",
     duration: "2018 - 2021",
     institution: "BEnazir Shaheen University Karachi Pakistan",
   },

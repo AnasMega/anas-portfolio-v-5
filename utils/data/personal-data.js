@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Anas Hussain",
   profile: '/profile.png',
-  designation: "MERN Stack-React Native-FUll Stack Principle Software Engineer",
-  description: "My name is Anas Hussain. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love to write code for api development and love to make the web more open to the world. My core skill is based on React.js Next.js Node.js React Native and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  designation: "Principle Software/Data Engineer",
+  description: "Software Engineer and Data Engineer with extensive experience in full-stack development, data engineering, and scalable enterprise solutions. Passionate about building high-performance applications and solving complex business problems through technology.",
   email: 'anashussain0311@gmail.com',
   phone: '+923112996610',
   address: 'Mailr Airport karachi sindh Pakistan',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/14162565/anas-hussain',
   leetcode: "",
   devUsername: "anashussain",
-  resume: "https://drive.google.com/file/d/1oACKps4zuUFNxZYSbdoQZLBeaSarAt2t/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1tS1YjkwPIgHqF0sNxIlBeT0JYwGGQC-7/view?usp=sharing"
 }
